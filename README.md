@@ -1,5 +1,5 @@
 # Single-Server-Multiple-Client-
-This is a simple echo server that has the capability to handle multiple client.(using fork)
+This is a simple echo server that has the capability to handle multiple client.
 
 Problem statement
 "Write the client side and server side of a connection
